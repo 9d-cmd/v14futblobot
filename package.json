@@ -1,0 +1,27 @@
+{
+  "name": "9cmd",
+  "version": "1.0.0",
+  "description": "9cmd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "9cmd",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "canvas": "^2.11.2",
+    "chalk": "^2.4.2",
+    "croxydb": "^0.0.22",
+    "discord-player": "^6.6.7",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.4.5",
+    "hercai": "^12.2.0",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "openai": "^4.29.1",
+    "os": "*",
+    "quick.db": "^9.1.7",
+    "rhino-ms": "^0.4.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
